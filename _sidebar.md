@@ -1,4 +1,9 @@
 <!-- 本文件是导航栏 -->
 
-* [首页](/)
-* [历史](/history)
+* [Home](/)
+* [Introduction](/introduction)
+* [Access Methods](/access)
+* [Search Methods](/search)
+* [Download & Read](/drc)
+* [Extra Content](/extra)
+* [Feedback](/feedback)
